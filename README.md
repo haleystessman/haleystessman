@@ -15,13 +15,13 @@ Hello_World/
    - examples.html
 ``` 
     
-## Files Used
+## Files Used:
 For this project there were no files used. However, I can see this being an extremely valuable component in the future.
 
-## Additional Documentation
+## Additional Documentation:
 For this project there is no additional documentation.
 
-## Versioning
+## Versioning:
 I only used one main version for this project. However, through my initial learning i have found that branches can be created for different versions, which will be an extremely helpful tool. 
 
 <!---
